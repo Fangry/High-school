@@ -1,0 +1,14 @@
+Functionalities,Descriptions
+crop,"Click the mouse to select the top-left point on the picture that you wish to keep. Click the mouse one more time to select  the bottom-right point that you wish to keep. Only the part of the picture that is between those two points, which the rectangle tool select tool will show you. Once the crop select tool has been chosen AND your first point has been chosen, you MUST crop something. It is recommended that you save before and after any wanted changes."
+text,"Click anywhere on the screen, and start typing on the keyboard to enter a string of text on screen. To enter a separate string of text on screen, just repeat the process. The text function is only for onscreen notes, and will not save to the picture file when you use the save as function. The text will only stay on screen as long as the text function is enabled and not when a different function is used, and will return when the text function is enabled. Text size can be changed every time a new string is created by adjusting the dial."
+move,Simply moves the picture around onscreen. This does not get saved.
+blur,"Change the dial to adjust how much of a blur effect you want, and simply click on the picture to blur. It is recommended that you save before and after any wanted changes."
+gray,Puts the picture into a greyscale. It is recommended that you save before and after any wanted changes.
+invert,Inverts the colors of the picture. It is recommended that you save before and after any wanted changes.
+posterize,"Change the dial to adjust how much of a posterize effect you want, and simply click on the picture to posterize. This effect essentially lowers the amount of colors present within the picture and gives it a poster-like effect. It is recommended that you save before and after any wanted changes."
+dilate,"Expands the areas of the picture that are lighter, and can be done over and over again until even reaching a plain white screen."
+sort,"Rearranges the pixels of the picture into a brightness scale. Simply click on the image, and be a little patient with the process."
+open,Open an image file in the interface to modify. The user can choose to open an image after already beginning to modify another picture. Just be sure to use save as on the first picture before doing so.
+save,Save the current picture condition in order to use as a base for the undo function.
+save as,Save the picture file as a new picture file. Will autosave in the folder it is coded to.
+undo,Works with the save feature to go back to the last saved state after making changes. Undo can only be used 8 times with the save function.
