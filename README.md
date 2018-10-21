@@ -1,6 +1,6 @@
 # High-school
 
-Hello world! This is here I keep all my high stuff stuff.
+Hello world! This is here I keep all my high school stuff.
 
 When I get bored, I try out different ideas in Processing. You can find random but cool stimulations in the "Processing Experiment" folder.  
 
