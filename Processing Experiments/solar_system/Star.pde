@@ -7,8 +7,8 @@ class Star extends Object {
     globe = createShape(SPHERE, r);
     globe.setTexture(img);
   }
-  
-    void display() {
+
+  void display() {
     pushMatrix();
     translate(loc.x, loc.y, loc.z);
     shape(globe);
