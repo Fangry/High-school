@@ -2,8 +2,6 @@
 
 Hello world! This is here I keep all my high school stuff.
 
-When I get bored, I try out different ideas in Processing. You can find random but cool stimulations in the "Processing Experiment" folder.  
-
-I am also practing contest problems such as the Canadian Computing Contest in Python and Java. You can find them in the "Contest Problems" folder. 
+This includes all my solutions to contest problems (in CCC Contest and Hackerrank), random Processing experiments, and other tutorials that I followed. 
 
 
